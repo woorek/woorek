@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://github.com/woorek"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=woorek&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" /></a> &nbsp; <a href="https://github.com/woorek"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woorek&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" /></a>
+<a href="https://github.com/woorek"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=woorek&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" /></a> &nbsp; <!-- <a href="https://github.com/woorek"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woorek&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats" /></a> -->
 
 <!--
 **woorek/woorek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
